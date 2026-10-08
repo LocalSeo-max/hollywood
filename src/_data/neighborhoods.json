@@ -1,0 +1,345 @@
+[
+  {
+    "slug": "hollywood-lakes",
+    "name": "Hollywood Lakes",
+    "zipCodes": [
+      "33019",
+      "33020"
+    ],
+    "localContext": "Near North Lake, South Lake and the Intracoastal Waterway; coastal and tidal water exposure makes fast extraction and moisture control especially important.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Hollywood Lakes, Hollywood, FL"
+  },
+  {
+    "slug": "hollywood-hills",
+    "name": "Hollywood Hills",
+    "zipCodes": [
+      "33021"
+    ],
+    "localContext": "A western Hollywood community with established homes and a mix of residential construction where hidden plumbing, roof and HVAC leaks can spread through walls and ceilings.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Hollywood Hills, Hollywood, FL"
+  },
+  {
+    "slug": "emerald-hills",
+    "name": "Emerald Hills",
+    "zipCodes": [
+      "33021",
+      "33026"
+    ],
+    "localContext": "An inland community around golf-course and lake settings; heavy rain, roof drainage, plumbing leaks and localized standing water can create different restoration challenges.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Emerald Hills, Hollywood, FL"
+  },
+  {
+    "slug": "downtown-hollywood",
+    "name": "Downtown Hollywood",
+    "zipCodes": [
+      "33020"
+    ],
+    "localContext": "The Young Circle and central Hollywood area, with older buildings, condos, apartments and commercial spaces where leaks can affect multiple units or businesses.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Downtown Hollywood, Hollywood, FL"
+  },
+  {
+    "slug": "hollywood-beach",
+    "name": "Hollywood Beach",
+    "zipCodes": [
+      "33019"
+    ],
+    "localContext": "The barrier-island beach area, with condos, hotels and residential properties exposed to wind-driven rain, coastal moisture and plumbing emergencies.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Hollywood Beach, Hollywood, FL"
+  },
+  {
+    "slug": "north-beach",
+    "name": "North Beach",
+    "zipCodes": [
+      "33019"
+    ],
+    "localContext": "The northern beach area with high-density residential and hospitality properties where water events can quickly affect neighboring units.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "North Beach, Hollywood, FL"
+  },
+  {
+    "slug": "south-central-beach",
+    "name": "South Central Beach",
+    "zipCodes": [
+      "33019"
+    ],
+    "localContext": "A coastal residential and visitor district where condo, apartment and hospitality properties need rapid extraction and controlled drying after leaks or storms.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "South Central Beach, Hollywood, FL"
+  },
+  {
+    "slug": "park-east",
+    "name": "Park East",
+    "zipCodes": [
+      "33020",
+      "33021"
+    ],
+    "localContext": "A central Hollywood residential area where plumbing, appliance, roof and storm-related water intrusion can affect slab, drywall and flooring.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Park East, Hollywood, FL"
+  },
+  {
+    "slug": "parkside",
+    "name": "Parkside",
+    "zipCodes": [
+      "33020"
+    ],
+    "localContext": "Central Hollywood properties around the downtown/Parkside area, including older homes and multifamily buildings with varied restoration needs.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Parkside, Hollywood, FL"
+  },
+  {
+    "slug": "boulevard-heights",
+    "name": "Boulevard Heights",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "An inland residential area where burst pipes, plumbing leaks, roof drainage and heavy-rain runoff are practical water-damage concerns.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Boulevard Heights, Hollywood, FL"
+  },
+  {
+    "slug": "driftwood",
+    "name": "Driftwood",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "A residential area west of central Hollywood where slab-on-grade homes and heavy-rain drainage can turn small leaks into broader moisture problems.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Driftwood, Hollywood, FL"
+  },
+  {
+    "slug": "liberia",
+    "name": "Liberia",
+    "zipCodes": [
+      "33020",
+      "33023"
+    ],
+    "localContext": "A historic Hollywood community with older housing stock where plumbing, roof, appliance and storm-related water damage can require careful drying.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Liberia, Hollywood, FL"
+  },
+  {
+    "slug": "oakwood-hills",
+    "name": "Oakwood Hills",
+    "zipCodes": [
+      "33020",
+      "33023"
+    ],
+    "localContext": "A community associated with the Liberia/Oakwood Hills area; restoration needs can range from localized leaks to storm and flooding cleanup.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Oakwood Hills, Hollywood, FL"
+  },
+  {
+    "slug": "washington-park",
+    "name": "Washington Park",
+    "zipCodes": [
+      "33023"
+    ],
+    "localContext": "A residential area with varied housing where plumbing leaks, appliance failures, roof leaks and heavy rain can cause interior water damage.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Washington Park, Hollywood, FL"
+  },
+  {
+    "slug": "beverly-park",
+    "name": "Beverly Park",
+    "zipCodes": [
+      "33020",
+      "33023"
+    ],
+    "localContext": "A Hollywood residential community where water damage commonly centers on plumbing, roofs, HVAC condensate, appliances and storm runoff.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Beverly Park, Hollywood, FL"
+  },
+  {
+    "slug": "lawn-acres",
+    "name": "Lawn Acres",
+    "zipCodes": [
+      "33020",
+      "33023"
+    ],
+    "localContext": "A residential neighborhood where older and newer properties may need different approaches to extraction, drying and repair.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Lawn Acres, Hollywood, FL"
+  },
+  {
+    "slug": "north-central",
+    "name": "North Central",
+    "zipCodes": [
+      "33020",
+      "33021"
+    ],
+    "localContext": "A central-northern Hollywood area with residential and mixed-use properties affected by plumbing, roof and weather-related water intrusion.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "North Central, Hollywood, FL"
+  },
+  {
+    "slug": "south-central",
+    "name": "South Central",
+    "zipCodes": [
+      "33020",
+      "33023"
+    ],
+    "localContext": "A central-southern Hollywood area with homes and multifamily properties where fast water removal helps limit secondary damage.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "South Central, Hollywood, FL"
+  },
+  {
+    "slug": "highland-gardens",
+    "name": "Highland Gardens",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "An inland residential community where leaks from plumbing, HVAC, appliances and roofs can migrate through ceilings, walls and floors.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Highland Gardens, Hollywood, FL"
+  },
+  {
+    "slug": "hillcrest",
+    "name": "Hillcrest",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "A multifamily-oriented area with condos and established buildings where unit-to-unit water migration can make rapid assessment especially valuable.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Hillcrest, Hollywood, FL"
+  },
+  {
+    "slug": "royal-poinciana",
+    "name": "Royal Poinciana",
+    "zipCodes": [
+      "33021"
+    ],
+    "localContext": "A Hollywood residential area with established homes where water damage can stem from aging plumbing, roofs, appliances and storm events.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Royal Poinciana, Hollywood, FL"
+  },
+  {
+    "slug": "maple-ridge",
+    "name": "Maple Ridge",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "A residential area where restoration work may involve flooring, drywall, cabinetry and concealed moisture after plumbing or storm incidents.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Maple Ridge, Hollywood, FL"
+  },
+  {
+    "slug": "oakridge",
+    "name": "Oakridge",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "An established Hollywood residential community where moisture can move beneath flooring or inside walls after leaks and heavy rain.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Oakridge, Hollywood, FL"
+  },
+  {
+    "slug": "alandco",
+    "name": "Alandco",
+    "zipCodes": [
+      "33021",
+      "33023"
+    ],
+    "localContext": "A residential Hollywood area where fast extraction and documented drying can help limit disruption after water intrusion.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "Alandco, Hollywood, FL"
+  },
+  {
+    "slug": "441-corridor",
+    "name": "441 Corridor",
+    "zipCodes": [
+      "33021",
+      "33023",
+      "33024"
+    ],
+    "localContext": "The US-441 corridor includes a mix of commercial, residential and multifamily properties that can require restoration after leaks, storms and flooding.",
+    "areaCodes": [
+      "954",
+      "754"
+    ],
+    "mapQuery": "441 Corridor, Hollywood, FL"
+  }
+]

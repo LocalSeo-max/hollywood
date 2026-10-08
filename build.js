@@ -1,0 +1,1 @@
+const fs=require('fs');const path=require('path');const src=path.join(__dirname,'_site');if(!fs.existsSync(src)){console.error('Generated site is missing. Restore the included _site or run the source generator.');process.exit(1)}console.log('Static site ready in _site/');
